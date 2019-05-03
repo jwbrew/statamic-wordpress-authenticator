@@ -1,0 +1,5 @@
+name: Wordpress Authenticator
+version: 1.0.0
+description: Provides fallback authentication for Wordpress password hashes
+developer: James Bradley Ross
+developer_url: jbrew.co.uk
