@@ -1,0 +1,6 @@
+{
+    "name": "jwbrew/statamic-wordpress-authenticator",
+    "require": {
+        "hautelook/phpass": "^1.1"
+    }
+}
